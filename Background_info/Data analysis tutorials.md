@@ -14,6 +14,12 @@ previous coding background, we also generally advise R as being quicker to learn
 analysis, whereas Python and its associated packages like Pandas can be very powerful but
 have a less intuitive syntax.
 
+Many specialized packages exist for analyzing gene expression matrices specifically such as DEseq2 
+(https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/04_DE_analysis_with_DESeq2.nb.html)
+However, for those with less coding experience an alternative is to use the basic plotting commands
+applicable to any kind of data table but focusing on particular genes, groups of genes, or experimental
+conditions (e.g. https://liz-is.github.io/R-genomics/06-rnaseq-data.html)
+
 
 ## Guides for Python
 
