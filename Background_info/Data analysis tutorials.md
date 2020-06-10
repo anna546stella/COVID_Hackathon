@@ -7,7 +7,7 @@ can jump to the sections in these guides that are most applicable to you.
 
 ## Guides for R
 
-https://r4ds.had.co.nz/explore-intro.html
+https://r4ds.had.co.nz/explore-intro.html \
 In general, using the "tidyverse" libraries is a highly-recommended way to process and
 visualize data in an organized and easy-to-learn way. For complete beginners with little
 previous coding background, we also generally advise R as being quicker to learn for data 
@@ -17,7 +17,7 @@ have a less intuitive syntax.
 
 ## Guides for Python
 
-https://datacarpentry.org/python-ecology-lesson/
+https://datacarpentry.org/python-ecology-lesson/ \
 The Pandas package in Python greatly faciltiates doing analyses on datasets formated as tables.
 The two most popular packages in Python for making plots are matplotlib, which borrows its interface
 from Matlab, and plotnine, which borrows its interface from R. Because Matlab structures can be
@@ -26,7 +26,7 @@ complex to learn, we recommended plotnine for beginners.
 
 ## Guides for other languages
 
-https://orange.biolab.si/screenshots/
+https://orange.biolab.si/screenshots/ \  
 Orange provides a graphical interface method of analyzing data, with no explicit coding involved
 at all. 
 	
