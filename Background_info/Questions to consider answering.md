@@ -15,7 +15,10 @@
 - Does it look like viral infection is triggering programmed cell death (apoptosis)?
 	- Is there upregulation of genes known to be linked to apoptosis such as CASP3?
 	- In the single-cell data, do cells from infected patients appear less healthy?
-	
+
+- Does the data support the notion that cytokines and immune activation predict severity of disease?
+	- How does expression of inflammatory cytokines (IFNG, IL1A, TNFA, etc) compare in patients with severe vs mild disease?
+
 
 ## Animal model data
 
