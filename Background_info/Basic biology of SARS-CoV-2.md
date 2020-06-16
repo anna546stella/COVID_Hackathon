@@ -37,9 +37,9 @@ spike, including FURIN. Once the virus fuses with the host cell, its RNA genome 
 and can begin replicating.
 
 Although this pathway of viral entry through ACE2 is the most established, other human receptors that
-may aid viral entry have been proposed. It is also noteworthy that ACE2 is broadly expressed in other 
-tissues such as the heart, brain, and intestines, which may account for known COVID-19 symptoms affecting
-those organs.
+may aid viral entry have been proposed including BSG and NRP1. It is also noteworthy that ACE2 is broadly 
+expressed in other tissues such as the heart, brain, and intestines, which may account for known COVID-19 
+symptoms affecting those organs. 
 
 
 ### Replication and life cycle
