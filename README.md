@@ -10,5 +10,6 @@ a short review of what's known about the SARS-CoV-2 virus, and a document of que
 a starting point to guide your analyses if you don't know where to begin. 
 
 Team chats are on Slack (https://cusbs.slack.com/) \
-If you'd like to have video calls with your team, please use our rooms on Timeout
+If you'd like to have video calls with your team, you can either use the 
+call functionality built into Slack or use our rooms on Cambridge's Timeout platform
 https://timeout.srcf.net/js2320-xqr-i8l
