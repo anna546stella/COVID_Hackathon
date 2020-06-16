@@ -34,3 +34,5 @@ Experiment "Series 16" repeats the same conditions as 6, except it also adds an 
 of the A549 cells overexpressing ACE2 that have been treated with the drug ruxolitinib (Rux) which
 prevents antiviral response signaling
   
+Note that there is also a row in the gene list called "SARS2", which counts the number of total viral RNA
+molecules detected in the sample.
