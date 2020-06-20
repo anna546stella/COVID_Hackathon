@@ -5,7 +5,7 @@ of the SARS-CoV-2 virus' spike protein. For every amino acid in the protein doma
 were generated for every possible other amino acid (out of the 20 standard amino acids) 
 that could exist at that position. Thus every possible single-position mutation is tested for its
 ability to bind to the virus' known ACE2 receptor. The binding values in the data file 
-have already been processed from the raw measurements.
+have already been processed to a log scale from the raw measurements.
 
 For each mutation, two types of measurements are made: how often that mutation is found when you analyze the 
 very strongest binding mutants out of all of them ("Top"), and how often that mutation is found when
