@@ -13,5 +13,7 @@ you analyze the weakest binding mutants out of all of them ("Bottom"). Although 
 because of the complexitiies of measurement in an experiment like this they are not identical.
 
 For each position in the protein, the amino acid that is naturally found in the spike's sequence (wild-type 
-or "WT") is defined as having 0 enrichment in the top-binders and 0 enrichment in bottom-binders.
+or "WT") is defined as having 0 enrichment in the top-binders and 0 enrichment in bottom-binders. All other
+measurements are log-enrichments based on this, so positive values mean greater representation than wild-type
+and negative values lower-representation. 
 
