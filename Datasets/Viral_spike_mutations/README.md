@@ -20,3 +20,5 @@ Although these metrics are correlated, because of the complexitiies of measureme
 correlations are not perfect. Thus, sometimes you may see a positive value in "Top" (reprenting greater binding) 
 but not a negative value in "Bottom".
 
+Note that the experiment done did not look at the full protein but only domains of it relevant for
+the spike's binding to ACE2. 
