@@ -5,3 +5,5 @@ diagnosed COVID-19 infections, and two patients with healthy lungs. All samples 
 from deceased patients, meaning the two COVID-19 patients died of their infection and the 
 two control patients died of unrelated causes that did not affect the lungs. All 4 patients
 were males over the age of 60.
+
+There is no associated metadata beyond this information about the patients.

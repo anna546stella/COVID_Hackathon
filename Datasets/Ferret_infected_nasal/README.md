@@ -9,3 +9,6 @@ comparison group.
 
 Experiment "Series 14" are trachea samples taken from the lungs of ferrets that had been infected
 for 3 days either with SARS-CoV-2, or influenza (IAV), or an uninfected control.
+
+There are two additional columns that map these ferret gene IDs to their nearest human orthologs,
+so you can more easily compare the ferret results to the human datasets.

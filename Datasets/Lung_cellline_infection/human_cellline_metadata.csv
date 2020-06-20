@@ -1,0 +1,75 @@
+title,geo_accession,organism,description,cell_line,cell_strain,treatment,time_after_treatment_hrs,name_short,replicate,cell_type
+Series1_NHBE_Mock_1,GSM4432378,Homo sapiens,SARS004-mock-3_S3,NHBE,NA,Mock treatment,24,NHBE_Mock,1,primary human bronchial epithelial cells
+Series1_NHBE_Mock_2,GSM4432379,Homo sapiens,SARS004-mock-2_S2,NHBE,NA,Mock treatment,24,NHBE_Mock,2,primary human bronchial epithelial cells
+Series1_NHBE_Mock_3,GSM4432380,Homo sapiens,SARS004-mock-1_S1,NHBE,NA,Mock treatment,24,NHBE_Mock,3,primary human bronchial epithelial cells
+Series1_NHBE_SARS.CoV.2_1,GSM4432381,Homo sapiens,SARS004-CoV2-3_S6,NHBE,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,NHBE_SARS-CoV-2,1,primary human bronchial epithelial cells
+Series1_NHBE_SARS.CoV.2_2,GSM4432382,Homo sapiens,SARS004-CoV2-2_S5,NHBE,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,NHBE_SARS-CoV-2,2,primary human bronchial epithelial cells
+Series1_NHBE_SARS.CoV.2_3,GSM4432383,Homo sapiens,SARS004-CoV2-1_S4,NHBE,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,NHBE_SARS-CoV-2,3,primary human bronchial epithelial cells
+Series2_A549_Mock_1,GSM4432384,Homo sapiens,CoV002-mock3-indexG3_S3,A549,NA,Mock treatment,24,A549_Mock,1,Lung adenocarcinoma
+Series2_A549_Mock_2,GSM4432385,Homo sapiens,CoV002-mock2-indexG2_S2,A549,NA,Mock treatment,24,A549_Mock,2,Lung adenocarcinoma
+Series2_A549_Mock_3,GSM4432386,Homo sapiens,CoV002-mock1-indexG1_S1,A549,NA,Mock treatment,24,A549_Mock,3,Lung adenocarcinoma
+Series2_A549_SARS.CoV.2_1,GSM4432387,Homo sapiens,CoV002-CoV2-3-indexG6_S6,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 0.2),24,A549_SARS-CoV-2,1,Lung adenocarcinoma
+Series2_A549_SARS.CoV.2_2,GSM4432388,Homo sapiens,CoV002-CoV2-2-indexG5_S5,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 0.2),24,A549_SARS-CoV-2,2,Lung adenocarcinoma
+Series2_A549_SARS.CoV.2_3,GSM4432389,Homo sapiens,CoV002-CoV2-1-indexG4_S4,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 0.2),24,A549_SARS-CoV-2,3,Lung adenocarcinoma
+Series3_A549_Mock_1,GSM4432390,Homo sapiens,svRNA184-mock-3-indexF3_S15,A549,NA,Mock treatment,24,A549_Mock,1,Lung adenocarcinoma
+Series3_A549_Mock_2,GSM4432391,Homo sapiens,svRNA184-mock-1-indexF1_S13,A549,NA,Mock treatment,24,A549_Mock,2,Lung adenocarcinoma
+Series3_A549_RSV_1,GSM4432392,Homo sapiens,svRNA184-RSV-3-indexH9_S18,A549,A2,RSV infected (MOI 15),24,A549_RSV,1,Lung adenocarcinoma
+Series3_A549_RSV_2,GSM4432393,Homo sapiens,svRNA184-RSV-1-indexF4_S16,A549,A2,RSV infected (MOI 15),24,A549_RSV,2,Lung adenocarcinoma
+Series4_A549_Mock_1,GSM4432394,Homo sapiens,3-9-mock1-13_S20,A549,NA,Mock treatment,9,A549_Mock,1,Lung adenocarcinoma
+Series4_A549_Mock_2,GSM4432395,Homo sapiens,3-9-mock2-14_S1,A549,NA,Mock treatment,9,A549_Mock,2,Lung adenocarcinoma
+Series4_A549_IAV_1,GSM4432396,Homo sapiens,3-9-wt1-15_S2,A549,A/Puerto Rico/8/1934 (H1N1),IAV infected (MOI 5),9,A549_IAV,1,Lung adenocarcinoma
+Series4_A549_IAV_2,GSM4432397,Homo sapiens,3-9-wt2-16_S16,A549,A/Puerto Rico/8/1934 (H1N1),IAV infected (MOI 5),9,A549_IAV,2,Lung adenocarcinoma
+Series5_A549_Mock_1,GSM4462336,Homo sapiens,CoV_A549-mock3,A549,NA,Mock treatment,24,A549_Mock,1,Lung adenocarcinoma
+Series5_A549_Mock_2,GSM4462337,Homo sapiens,CoV_A549-mock2,A549,NA,Mock treatment,24,A549_Mock,2,Lung adenocarcinoma
+Series5_A549_Mock_3,GSM4462338,Homo sapiens,CoV_A549-mock1,A549,NA,Mock treatment,24,A549_Mock,3,Lung adenocarcinoma
+Series5_A549_SARS.CoV.2_1,GSM4462339,Homo sapiens,CoV_A549-SARSCoV2-3,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,A549_SARS-CoV-2,1,Lung adenocarcinoma
+Series5_A549_SARS.CoV.2_2,GSM4462340,Homo sapiens,CoV_A549-SARSCoV2-2,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,A549_SARS-CoV-2,2,Lung adenocarcinoma
+Series5_A549_SARS.CoV.2_3,GSM4462341,Homo sapiens,CoV_A549-SARSCoV2-1,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,A549_SARS-CoV-2,3,Lung adenocarcinoma
+Series6_A549.ACE2_Mock_1,GSM4462342,Homo sapiens,A549-Adeno-GFP-ACE2-mock3,A549,NA,Mock treatment,24,A549-ACE2,1,Lung adenocarcinoma
+Series6_A549.ACE2_Mock_2,GSM4462343,Homo sapiens,A549-Adeno-GFP-ACE2-mock2,A549,NA,Mock treatment,24,A549-ACE2,2,Lung adenocarcinoma
+Series6_A549.ACE2_Mock_3,GSM4462344,Homo sapiens,A549-Adeno-GFP-ACE2-mock1,A549,NA,Mock treatment,24,A549-ACE2,3,Lung adenocarcinoma
+Series6_A549.ACE2_SARS.CoV.2_1,GSM4462345,Homo sapiens,A549-Adeno-GFP-ACE2-SARS-CoV2-3,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 0.2),24,A549-ACE2,1,Lung adenocarcinoma
+Series6_A549.ACE2_SARS.CoV.2_2,GSM4462346,Homo sapiens,A549-Adeno-GFP-ACE2-SARS-CoV2-2,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 0.2),24,A549-ACE2,2,Lung adenocarcinoma
+Series6_A549.ACE2_SARS.CoV.2_3,GSM4462347,Homo sapiens,A549-Adeno-GFP-ACE2-SARS-CoV2-1,A549,USA-WA1/2020,SARS-CoV-2 infected (MOI 0.2),24,A549-ACE2,3,Lung adenocarcinoma
+Series7_Calu3_Mock_1,GSM4462348,Homo sapiens,Calu3-mock3,Calu-3,NA,Mock treatment,24,Calu3_Mock,1,Lung adenocarcinoma
+Series7_Calu3_Mock_2,GSM4462349,Homo sapiens,Calu3-mock2,Calu-3,NA,Mock treatment,24,Calu3_Mock,2,Lung adenocarcinoma
+Series7_Calu3_Mock_3,GSM4462350,Homo sapiens,Calu3-mock1,Calu-3,NA,Mock treatment,24,Calu3_Mock,3,Lung adenocarcinoma
+Series7_Calu3_SARS.CoV.2_1,GSM4462351,Homo sapiens,Calu3-SARSCoV2-3,Calu-3,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,Calu3_SARS-CoV-2,1,Lung adenocarcinoma
+Series7_Calu3_SARS.CoV.2_2,GSM4462352,Homo sapiens,Calu3-SARSCoV2-2,Calu-3,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,Calu3_SARS-CoV-2,2,Lung adenocarcinoma
+Series7_Calu3_SARS.CoV.2_3,GSM4462353,Homo sapiens,Calu3-SARSCoV2-1,Calu-3,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),24,Calu3_SARS-CoV-2,3,Lung adenocarcinoma
+Series8_A549_Mock_1,GSM4462354,Homo sapiens,RSV_A549-mock3,A549,NA,Mock treatment,24,A549_Mock,1,Lung adenocarcinoma
+Series8_A549_Mock_2,GSM4462355,Homo sapiens,RSV_A549-mock2,A549,NA,Mock treatment,24,A549_Mock,2,Lung adenocarcinoma
+Series8_A549_Mock_3,GSM4462356,Homo sapiens,RSV_A549-mock1,A549,NA,Mock treatment,24,A549_Mock,3,Lung adenocarcinoma
+Series8_A549_RSV_1,GSM4462357,Homo sapiens,RSV_A549-RSV-MOI2-3,A549,A2,RSV infected (MOI 2),24,A549_RSV,1,Lung adenocarcinoma
+Series8_A549_RSV_2,GSM4462358,Homo sapiens,RSV_A549-RSV-MOI2-2,A549,A2,RSV infected (MOI 2),24,A549_RSV,2,Lung adenocarcinoma
+Series8_A549_RSV_3,GSM4462359,Homo sapiens,RSV_A549-RSV-MOI2-1,A549,A2,RSV infected (MOI 2),24,A549_RSV,3,Lung adenocarcinoma
+Series8_A549_HPIV3_1,GSM4462360,Homo sapiens,A549-HPIV3-MOI2-1-indexD1,A549,JS,HPIV3 infected (MOI 3),24,A549_HPIV3,1,Lung adenocarcinoma
+Series8_A549_HPIV3_2,GSM4462361,Homo sapiens,A549-HPIV3-MOI2-2-indexD2,A549,JS,HPIV3 infected (MOI 3),24,A549_HPIV3,2,Lung adenocarcinoma
+Series8_A549_HPIV3_3,GSM4462362,Homo sapiens,A549-HPIV3-MOI2-3-indexD3,A549,JS,HPIV3 infected (MOI 3),24,A549_HPIV3,3,Lung adenocarcinoma
+Series9_NHBE_Mock_1,GSM4462363,Homo sapiens,NHBE-Mock-1,NA,NA,Mock treatment,12,NHBE_Mock,1,primary human bronchial epithelial cells
+Series9_NHBE_Mock_2,GSM4462364,Homo sapiens,NHBE-Mock-2,NA,NA,Mock treatment,12,NHBE_Mock,2,primary human bronchial epithelial cells
+Series9_NHBE_Mock_3,GSM4462365,Homo sapiens,NHBE-Mock-3,NA,NA,Mock treatment,12,NHBE_Mock,3,primary human bronchial epithelial cells
+Series9_NHBE_Mock_4,GSM4462366,Homo sapiens,NHBE-Mock-4,NA,NA,Mock treatment,12,NHBE_Mock,4,primary human bronchial epithelial cells
+Series9_NHBE_IAV_1,GSM4462367,Homo sapiens,IAV-LD-1,NA,A/Puerto Rico/8/1934 (H1N1),IAV infected (MOI 3),12,NHBE_IAV,1,primary human bronchial epithelial cells
+Series9_NHBE_IAV_2,GSM4462368,Homo sapiens,IAV-LD-2,NA,A/Puerto Rico/8/1934 (H1N1),IAV infected (MOI 3),12,NHBE_IAV,2,primary human bronchial epithelial cells
+Series9_NHBE_IAV_3,GSM4462369,Homo sapiens,IAV-LD-3,NA,A/Puerto Rico/8/1934 (H1N1),IAV infected (MOI 3),12,NHBE_IAV,3,primary human bronchial epithelial cells
+Series9_NHBE_IAV_4,GSM4462370,Homo sapiens,IAV-LD-4,NA,A/Puerto Rico/8/1934 (H1N1),IAV infected (MOI 3),12,NHBE_IAV,4,primary human bronchial epithelial cells
+Series9_NHBE_IAVdNS1_1,GSM4462371,Homo sapiens,dNS1-LD-1,NA,A/Puerto Rico/8/1934 (H1N1) (dNS1),IAVdNS1 infected (MOI 3),12,NHBE_IAVdNS1,1,primary human bronchial epithelial cells
+Series9_NHBE_IAVdNS1_2,GSM4462372,Homo sapiens,dNS1-LD-2,NA,A/Puerto Rico/8/1934 (H1N1) (dNS1),IAVdNS1 infected (MOI 3),12,NHBE_IAVdNS1,2,primary human bronchial epithelial cells
+Series9_NHBE_IAVdNS1_3,GSM4462373,Homo sapiens,dNS1-LD-3,NA,A/Puerto Rico/8/1934 (H1N1) (dNS1),IAVdNS1 infected (MOI 3),12,NHBE_IAVdNS1,3,primary human bronchial epithelial cells
+Series9_NHBE_IAVdNS1_4,GSM4462374,Homo sapiens,dNS1-LD-4,NA,A/Puerto Rico/8/1934 (H1N1) (dNS1),IAVdNS1 infected (MOI 3),12,NHBE_IAVdNS1,4,primary human bronchial epithelial cells
+Series9_NHBE_IFNB_4h_1,GSM4462375,Homo sapiens,IFN_4_1,NA,NA,human IFNB treatment (100U/ml),4,NHBE_IFNB,1,primary human bronchial epithelial cells
+Series9_NHBE_IFNB_4h_2,GSM4462376,Homo sapiens,IFN_4_2,NA,NA,human IFNB treatment (100U/ml),4,NHBE_IFNB,2,primary human bronchial epithelial cells
+Series9_NHBE_IFNB_6h_1,GSM4462377,Homo sapiens,IFN_6_1,NA,NA,human IFNB treatment (100U/ml),6,NHBE_IFNB,1,primary human bronchial epithelial cells
+Series9_NHBE_IFNB_6h_2,GSM4462378,Homo sapiens,IFN_6_2,NA,NA,human IFNB treatment (100U/ml),6,NHBE_IFNB,2,primary human bronchial epithelial cells
+Series9_NHBE_IFNB_12h_1,GSM4462379,Homo sapiens,IFN_12_1,NA,NA,human IFNB treatment (100U/ml),12,NHBE_IFNB,1,primary human bronchial epithelial cells
+Series9_NHBE_IFNB_12h_2,GSM4462380,Homo sapiens,IFN_12_2,NA,NA,human IFNB treatment (100U/ml),12,NHBE_IFNB,2,primary human bronchial epithelial cells
+Series16_A549.ACE2_Mock_1,GSM4486157,Homo sapiens,NA,A549.ACE2,NA,Mock treatment,NA,A549-ACE2_Mock,1,NA
+Series16_A549.ACE2_Mock_2,GSM4486158,Homo sapiens,NA,A549.ACE2,NA,Mock treatment,NA,A549-ACE2_Mock,2,NA
+Series16_A549.ACE2_Mock_3,GSM4486159,Homo sapiens,NA,A549.ACE2,NA,Mock treatment,NA,A549-ACE2_Mock,3,NA
+Series16_A549.ACE2_SARS.CoV.2_1,GSM4486160,Homo sapiens,Time after treatment: 24 hours,A549.ACE2,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),NA,A549-ACE2_SARS-CoV-2,1,NA
+Series16_A549.ACE2_SARS.CoV.2_2,GSM4486161,Homo sapiens,Time after treatment: 24 hours,A549.ACE2,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),NA,A549-ACE2_SARS-CoV-2,2,NA
+Series16_A549.ACE2_SARS.CoV.2_3,GSM4486162,Homo sapiens,Time after treatment: 24 hours,A549.ACE2,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),NA,A549-ACE2_SARS-CoV-2,3,NA
+Series16_A549.ACE2_SARS.CoV.2_Rux_1,GSM4486163,Homo sapiens,Time after treatment: 24 hours,A549.ACE2,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),NA,A549-ACE2_SARS-CoV-2_Rux,1,NA
+Series16_A549.ACE2_SARS.CoV.2_Rux_2,GSM4486164,Homo sapiens,Time after treatment: 24 hours,A549.ACE2,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),NA,A549-ACE2_SARS-CoV-2_Rux,2,NA
+Series16_A549.ACE2_SARS.CoV.2_Rux_3,GSM4486165,Homo sapiens,Time after treatment: 24 hours,A549.ACE2,USA-WA1/2020,SARS-CoV-2 infected (MOI 2),NA,A549-ACE2_SARS-CoV-2_Rux,3,NA
