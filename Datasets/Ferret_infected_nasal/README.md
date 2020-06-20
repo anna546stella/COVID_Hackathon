@@ -1,6 +1,7 @@
 # Bulk RNA expression from infected ferrets
 
-This dataset includes related experiments on a ferret model of SARS-CoV-2 infection.
+This dataset includes related experiments on a ferret model of SARS-CoV-2 infection. Note that although
+the virus has no difficulty infecting ferrets, unlike humans ferrets avoid major illness or death.
 
 Experiments "Series 10", "11", "12", and "13" are a timecourse measuring nasal cells. Samples
 were taken at 1, 3, 7, or 14 days post-infection. There is a mock-treated ferret control group, 

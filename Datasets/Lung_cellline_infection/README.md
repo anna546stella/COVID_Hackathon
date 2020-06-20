@@ -6,9 +6,9 @@ Like the other RNA datasets, the data matrices provided are already properly nor
 to being raw counts.
 
 Experiment "Series 1" involves NHBE bronchial epithelial cell lines infected with SARS-CoV-2 measured 
-after 24 hours post-infection or mock treatment.
+after 24 hours post infection or post mock treatment.
 
-Experiment "Series 2" involves a similar infection experiment on A549 lung cancer cell lines.
+Experiment "Series 2" involves a similar infection experiment as 1 but on A549 lung cancer cell lines.
 
 Experiment "Series 3" involves a similar experiment to 2 but infecting the A549 cells with respiratory 
 syncytial virus (RSV) instead of SARS-CoV-2
